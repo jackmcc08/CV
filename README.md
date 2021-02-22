@@ -1,6 +1,6 @@
 # Jack McCarthy - CV
 
-[Projects](projects) | [Skills]() | [Experience]() | [Education]() | [Additional Information]() | [Personal Website](https://jackmcc08.github.io/) | [LinkedIn](https://www.linkedin.com/in/jackmcc08/)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Additional Information](#additional-information-and-hobbies) | [Personal Website](https://jackmcc08.github.io/) | [LinkedIn](https://www.linkedin.com/in/jackmcc08/)
 
 Hi! My name is Jack McCarthy and I am currently multiclassing as a programmer. After 8 years in the energy industry as a procurement professional, negotiating goods and services contracts, I am now looking to put my time and effort into creating programs which are fun and and easy to use (especially after having to use several of the industry standard procurement programs!).
 
@@ -103,4 +103,4 @@ Key Achievements:
 - Veni iOS App (2015-17): Worked with university peers to develop and design a mobile app.
 - Volunteering: Career Ready Mentor | Team London Ambassador
 - Drawing
-- Planning my flat rennovation
+- Planning my flat rennovation (Why are there so many shades of white?....why?)
