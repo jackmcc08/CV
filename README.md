@@ -1,6 +1,6 @@
-## Jack McCarthy
+# Jack McCarthy - CV
 
-[Projects]() | [Skills]() | [Experience]() | [Education]() | [Additional Information]() | [Personal Website](https://jackmcc08.github.io/) | [LinkedIn](https://www.linkedin.com/in/jackmcc08/)
+[Projects](projects) | [Skills]() | [Experience]() | [Education]() | [Additional Information]() | [Personal Website](https://jackmcc08.github.io/) | [LinkedIn](https://www.linkedin.com/in/jackmcc08/)
 
 Hi! My name is Jack McCarthy and I am currently multiclassing as a programmer. After 8 years in the energy industry as a procurement professional, negotiating goods and services contracts, I am now looking to put my time and effort into creating programs which are fun and and easy to use (especially after having to use several of the industry standard procurement programs!).
 
@@ -48,20 +48,13 @@ Key Achievements:
 - Worked in the Tortue Phase 2 project optimisation scrum, set up a strategic supplier engagment session from start to finish in one month compared to a usual timeframe of 3+ months. 
 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Experience
 
 #### BP Plc. | International Energy Company
 
 **2012 - 2020**
 
-**Procurement Professional**| Over eight years of procurement experience at BP in a variety of roles. Key responsibilities and activities during that time included:
+**Procurement Professional** | Over eight years of procurement experience at BP in a variety of roles. Key responsibilities and activities during that time included:
 - Market intelligence and strategy development including data analysis.
 - Managing full end to end sourcing activities, including negotiating goods and services contracts.
 - Contract and supplier management.
