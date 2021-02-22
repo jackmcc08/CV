@@ -58,6 +58,7 @@ Key Achievements:
 - Market intelligence and strategy development including data analysis.
 - Managing full end to end sourcing activities, including negotiating goods and services contracts.
 - Contract and supplier management.
+- (replace with summary of job titles)
 
 **Key Achievements:**
 - Created market intelligence and strategy excel based tools to analyse and predict the price of drilling rigs and influence drilling rig procurement strategy. 
