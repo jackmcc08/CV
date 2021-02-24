@@ -52,7 +52,7 @@ Key Achievements:
 - Set up a kanban board for the rigs procurement team and ran daily stand-ups.
 - Worked in the Tortue Phase 2 project optimisation scrum, set up a strategic supplier engagment session from start to finish in one month compared to a usual timeframe of 3+ months. 
 
-#### Other Key Skills - Contract Drafting, Strategic Sourcing, Communication and Presentation, Coaching & Mentoring
+#### Other Key Skills - Contract Drafting, Strategic Sourcing, Communication and Presentation, Coaching & Mentoring, Remote Working, Working with teams across the world.
 
 ## Experience
 
