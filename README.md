@@ -24,7 +24,7 @@ Please check out my [Github Profile](https://github.com/jackmcc08).
 Multiple years of leading and managing end to end procurement projects running cross-functional teams. Projects typically involved developing contracts to meet business requirements, ensuring stakeholders requirements were met and managing their expectations along with constant communication. Consistently worked to deadlines and secured contracts to meet budgets. Also involved heavy interaction and negotiation with external parties. 
 Key Achievements as project lead:
 - Secured a rig contract while under US Iran Sanctions
-- Led team which developed procurement strategy for multi-billion dollar LNG project in West Africa.
+- Led team which developed the procurement strategy for a multi-billion dollar LNG project in West Africa.
 - Managed project to secure new rig types for Azerbaijan.
 
 
@@ -107,6 +107,6 @@ Key Achievements:
 ## Additional Information and Hobbies
 
 - Veni iOS App (2015-17): Worked with university peers to develop and design a mobile app.
-- Volunteering: Career Ready Mentor | Team London Ambassador
+- Volunteering: Career Ready Mentor and Team London Ambassador
 - Drawing
 - Planning my flat rennovation (Why are there so many shades of white?....why?)
