@@ -12,8 +12,8 @@ My programming journey started in 2020 with freecodecamp and codecademy courses,
 
 | Name                         | Description       | Tech/tools        | Testing           |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| [Facebook Clone](https://github.com/jackmcc08/Knitter-acebook-clone) | A 2 week group engineering project to develop a facebook clone. Worked in a group of 8 using Agile methodology, where I learnt Ruby on Rails in two weeks. | Ruby on Rails, JS, HTML, CSS | RSPEC |
-| [Notes web app](https://github.com/jackmcc08/notes_app) | A 1 week group engineering project to develop a web based notes app. I wrote our own bespoke testing scripts. | vanilla JS, HTML, CSS | Bespoke testing script | 
+| [Facebook Clone](https://github.com/jackmcc08/Knitter-acebook-clone) | A 2 week group engineering project to develop a facebook clone. Worked in a group of eight using Agile practices. My first experience with Ruby on Rails. | Ruby on Rails, JS, HTML, CSS | RSPEC |
+| [Notes web app](https://github.com/jackmcc08/notes_app) | A 2-day group engineering project to develop a web based notes app. I wrote the bespoke testing scripts. | vanilla JS, HTML, CSS | Bespoke testing script | 
 | [Personal Github Pages website](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, Javascript | n/a |
 
 Please check out my [Github Profile](https://github.com/jackmcc08).
