@@ -6,12 +6,13 @@ Hi! My name is Jack McCarthy and I am currently multiclassing as a programmer. A
 
 I am a logical and organised thinker who is experienced at managing projects and working under pressure. The skills I have gained to date have been very useful in learning how to program. For example, through my experience drafting contracts I am used to analysing specifications and ensuring the contract is written to meet them, is logically consistent (essentially I was writing programs for companies to interact with each other) and looking for contract loopholes to close (debugging!).  
 
-My programming journey started in 2020 with freecodecamp and codecademy courses, before deciding to take the plunge in 2021 when I left my job and signed up to the Makers Bootcamp. My experience at Makers Academy has been .... and I am really looking forward to working in the tech industry to become a full-fledged junior softwware engineer and continue my programming journey. Please check out some of my work below.
+My programming journey started in 2020 with freecodecamp and codecademy courses, before deciding to take the plunge in 2021 when I left my job and signed up to the Makers Bootcamp. My experience at Makers Academy has been a fantastic and intense experience where I have built several awesome projects across several technologies including  Ruby-on-Rails and React.js, and I feel ready to learn any tech stack. I have also had some great group engineering experiences where we worked in an Agile Manner to build two applications from scratch. I am really looking forward to working in the tech industry to become a full-fledged softwware engineer and continue my programming journey. Please check out some of my work below.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        | Testing           |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
+| Reclaim application - [React Frontend](https://github.com/jackmcc08/ladz-reclaim-react-fe) [Ruby Backend API](https://github.com/willspencer16/reclaim_api) | My final project. Worked in a group of 4 to develop a Loyalty Card Application which comprised of seperate frontend and backends. It was my first experience with React. | React.js, Ruby on Rails | Jest, RSPEC| 
 | [Facebook Clone](https://github.com/jackmcc08/Knitter-acebook-clone) | A 2 week group engineering project to develop a facebook clone. Worked in a group of eight using Agile practices. My first experience with Ruby on Rails. | Ruby on Rails, JS, HTML, CSS | RSPEC |
 | [Notes web app](https://github.com/jackmcc08/notes_app) | A 2-day group engineering project to develop a web based notes app. I wrote the bespoke testing scripts. | vanilla JS, HTML, CSS | Bespoke testing script | 
 | [Personal Github Pages website](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, Javascript | n/a |
