@@ -12,7 +12,7 @@ My programming journey started in 2020 with freecodecamp and codecademy courses,
 
 | Name                         | Description       | Tech/tools        | Testing           |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| Reclaim application - [React Frontend](https://github.com/jackmcc08/ladz-reclaim-react-fe) [Ruby Backend API](https://github.com/willspencer16/reclaim_api) | My final project. Worked in a group of 4 to develop a Loyalty Card Application which comprised of seperate frontend and backends. It was my first experience with React. | React.js, Ruby on Rails | Jest, RSPEC| 
+| Reclaim application - [React Frontend](https://github.com/jackmcc08/ladz-reclaim-react-fe); [Ruby Backend API](https://github.com/willspencer16/reclaim_api) | My final project. Worked in a group of 4 to develop a Loyalty Card Application which comprised of seperate frontend and backends. It was my first experience with React. | React.js, Ruby on Rails | Jest, RSPEC| 
 | [Facebook Clone](https://github.com/jackmcc08/Knitter-acebook-clone) | A 2 week group engineering project to develop a facebook clone. Worked in a group of eight using Agile practices. My first experience with Ruby on Rails. | Ruby on Rails, JS, HTML, CSS | RSPEC |
 | [Notes web app](https://github.com/jackmcc08/notes_app) | A 2-day group engineering project to develop a web based notes app. I wrote the bespoke testing scripts. | vanilla JS, HTML, CSS | Bespoke testing script | 
 | [Personal Github Pages website](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, Javascript | n/a |
