@@ -2,7 +2,7 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Additional Information](#additional-information-and-hobbies) | [Personal Website](https://jackmcc08.github.io/) | [LinkedIn](https://www.linkedin.com/in/jackmcc08/)
 
-Hi! My name is Jack McCarthy and I am currently multiclassing as a programmer. I am a logical and organised thinker who is experienced at managing projects and working under pressure. After 8 years in the energy industry as a procurement professional negotiating goods and services contracts, I am now looking to put my time and effort into creating programs which are fun and and easy to use (especially after having to use industry standard procurement programs!). 
+Hi! My name is Jack McCarthy and I am currently multiclassing as a programmer. I am a logical and organised thinker who is experienced at managing projects, a great team player and good at working under pressure. After 8 years in the energy industry as a procurement professional negotiating goods and services contracts, I am now looking to put my time and effort into creating programs which are fun and and easy to use (especially after having to use industry standard procurement programs!). 
 
 My programming journey started in 2020 with freecodecamp and codecademy courses, before deciding to take the plunge in 2021 when I left my job and signed up to the Makers Academy Bootcamp. My experience at the Academy has been a fantastic and intense experience where I have built several awesome projects with various different technologies including Ruby-on-Rails and React.js. Four of these projects have been built in groups where we used Agile working practices, and delivered fully functioning programs in short timeframes, often while learning new technologies. 
 
@@ -12,7 +12,7 @@ My time at Makers has left me feeling ready to learn any tech stack. I am lookin
 
 | Name                         | Description       | Tech/tools        | Testing           |
 | ---------------------------- | ----------------- | ----------------- | ----------------- |
-| Reclaim application - [React Frontend](https://github.com/jackmcc08/ladz-reclaim-react-fe); [Ruby Backend API](https://github.com/willspencer16/reclaim_api) | My final project. Worked in a group of 4 to develop a Loyalty Card Application which comprised of seperate frontend and backends. It was my first experience with React. | React.js, Ruby on Rails | Jest, RSPEC| 
+| Reclaim application - [React Frontend](https://github.com/jackmcc08/ladz-reclaim-react-fe); [Ruby Backend API](https://github.com/willspencer16/reclaim_api) | Final Makers Project - Worked in a group of 4 to develop a Loyalty Card Application which comprised of separate frontend and backends. It was my first experience with React. | React.js, Ruby on Rails | Jest, RSPEC| 
 | [Facebook Clone](https://github.com/jackmcc08/Knitter-acebook-clone) | A 2 week group engineering project to develop a facebook clone. Worked in a group of eight using Agile practices. My first experience with Ruby on Rails. | Ruby on Rails, JS, HTML, CSS | RSPEC |
 | [Notes web app](https://github.com/jackmcc08/notes_app) | A 2-day group engineering project to develop a web based notes app. I wrote the bespoke testing scripts. | vanilla JS, HTML, CSS | Bespoke testing script | 
 | [Personal Github Pages website](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, Javascript | n/a |
@@ -31,18 +31,18 @@ Key Achievements:
 
 
 #### Communication and Presentation
-Experienced communicator and presenter, ranging from writing reports for and agreeing requirements with senior stakeholders, negotiating with third parties to coaching and mentoring junior members of staff. In my time at Makers, used this skill to clearly communicate technical requirements, discuss and understand how certain sections of code worked and presented our group projects. 
+Experienced communicator and presenter, ranging from writing reports for and agreeing requirements with senior stakeholders, negotiating with third parties, to coaching and mentoring junior members of staff. In my time at Makers, used this skill to clearly communicate technical requirements, discuss and understand how certain sections of code worked and presenting our group projects. 
 Key Achievements:
 - Wrote rig market reports that were well received by company executives, who used the report data to make key fleet decisions.
 - Persuaded a senior stakeholder to preserve out contracting options in order to allow us flexibility in our procurement process, rather than closing down the options too soon.
   
 
-#### Project Management
+#### Project Management and Leadership
 
 Multiple years of leading and managing end to end procurement projects. Projects typically involved developing contracts to meet business requirements, ensuring stakeholders requirements were met and managing their expectations along with constant communication. Consistently worked to deadlines and secured contracts to meet budgets. Also involved heavy interaction and negotiation with external parties. 
-Key Achievements as project lead:
+Key Achievements:
 - Secured a rig contract while under US Iran Sanctions
-- Led team which developed the procurement strategy for a multi-billion dollar LNG project in West Africa.
+- Led team which developed the procurement strategy for a multi-billion dollar LNG project in West Africa. 
 - Managed project to secure new rig types for Azerbaijan.
 
 #### Quick Study
@@ -52,7 +52,7 @@ Key Achievements:
   - Delivered a react.js frontend application for final Makers Group project, had to learn and start using react in a week.
   - Developed a contract strategy for a multi-billion dollar LNG project in West Africa, within one month of taking on the role, for procurement categories I did not have prior experience in.
 
-#### Analysis
+#### Analysis and Problem Solving
 
 Able to quickly review and analyse material including contracts, market data, and reports to understand what is going on and produce plans and suggestions on the way to progress. In my time at Makers I have used this skill to develop a good debugging methodology, utlising the debugging loop (get visibility, tighten the loop, fix the one issue, repeat), which has helped me solve key problems in our group projects. 
 Key Achievements:
