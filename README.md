@@ -2,17 +2,17 @@
 
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Additional Information](#additional-information-and-hobbies) | [Personal Website](https://jackmcc08.github.io/) | [LinkedIn](https://www.linkedin.com/in/jackmcc08/)
 
-Hi! My name is Jack McCarthy and I am currently multiclassing as a programmer. I am a logical and organised thinker who is experienced at managing projects, a great team player and good at working under pressure. After 8 years in the energy industry as a procurement professional negotiating goods and services contracts, I am now looking to put my time and effort into creating programs which are fun and and easy to use (especially after having to use industry standard procurement programs!). 
+Hi! My name is Jack McCarthy and I am currently multiclassing as a programmer. I am a logical and organised thinker who is experienced at managing projects, a great team player and good at working under pressure. After 8 years in the energy industry as a procurement professional negotiating goods and services contracts, I am now looking to put my time and effort into creating programs which are fun and easy to use (especially after having to use industry standard procurement programs!). 
 
 My programming journey started in 2020 with freecodecamp and codecademy courses, before deciding to take the plunge in 2021 when I left my job and signed up to the Makers Academy Bootcamp. My experience at the Academy has been a fantastic and intense experience where I have built several awesome projects with various different technologies including Ruby-on-Rails and React.js. Four of these have been group projects where we used Agile working practices, delivering fully functioning programs in short timeframes, often while learning new technologies. 
 
-My time at Makers has left me feeling ready to learn any tech stack. I am looking forward to working in the tech industry to become a full-fledged softwware engineer and continue my learning journey. Please check out some of my work below.
+My time at Makers has left me feeling ready to learn any tech stack and take on any challenge. I am looking forward to working in the tech industry to become a full-fledged softwware engineer and continue my learning journey. Please check out some of my work below.
 
 ## Projects
 
 | Name                         | Links | Description       | Technology       | 
 | ---------------------------- | ------ | ----------------- | ----------------- | 
-| Final Makers Group Project - Reclaim | [React Frontend Repo](https://github.com/jackmcc08/ladz-reclaim-react-fe); [Ruby Backend Repo](https://github.com/jackmcc08/reclaim_api ); [Demo](https://youtu.be/0LR2igzIuHQ) | Worked in a group of 4 to develop a Loyalty Card Application which comprised of separate frontend and backends. It was my first experience with React. | React.js, Ruby on Rails, Jest, RSPEC, Heroku |
+| Final Makers Group Project - Reclaim | [Frontend Repo](https://github.com/jackmcc08/ladz-reclaim-react-fe); [Backend Repo](https://github.com/jackmcc08/reclaim_api ); [Demo](https://youtu.be/0LR2igzIuHQ) | Worked in a group of 4 to develop a Loyalty Card Application which comprised of separate frontend and backend. It was my first experience with React. | React.js, Ruby on Rails, Jest, RSPEC, Heroku |
 | Facebook Clone Group Project - Knitter |[Repo](https://github.com/jackmcc08/Knitter-acebook-clone); [Hosted](http://knitter-acebook.herokuapp.com/); [Demo](https://youtu.be/Laqb11IdKBU ) | A 2 week group engineering project working in a group of eight using Agile practices. My first experience with Ruby on Rails. | Ruby on Rails, JS, HTML, CSS, RSPEC, Heroku | 
 | Twitter Clone Solo Project - Shouter | [Repo](https://github.com/jackmcc08/chitter-challenge ) | Weekend Challenge to build a twitter clone in Ruby. | Ruby, Sinatra, RSPEC, Capybara, Rubocop |
 | Notes Web app Group Project - Ducking Notes | [Repo](https://github.com/jackmcc08/notes_app); [Hosted](https://willspencer16.github.io/notes_app/); [Demo](https://youtu.be/LoaesmaPbS0) | A 2-day group engineering project to develop a web based notes app. I wrote the bespoke testing scripts. | Vanilla JS, HTML, CSS, Bespoke Testing Script | 
@@ -113,21 +113,28 @@ Key Achievements:
 
 #### Makers Academy (February to May 2021)
 
-- 16-week intensive coding bootcamp. Course covered fundamentals of coding and developed key soft skills, including group projects and agile working. 
+- 16-week intensive coding bootcamp. Course covered fundamentals of coding and developed key soft skills, including group projects and agile working. Delivered 4 group projects, 8 weekend challenges and 2 tech tests. 
 - Key Skills Developed:
   - Object Orientated Programming (OOP)
-  - Behaviour and Test Driven Development (BDD, TDD)
+  - Behaviour and Test Driven Development (BDD, TDD), including mocking classes.
+  - Good Debugging Process
   - Agile Working Practices
   - Pair Programming
   - Remote Working
 - Key Technologies Used:
   - Ruby: Ruby on Rails, Sinatra, RSPEC, Rubocop
   - JavaScript: React.js, Node.js, Jasmine, Jest
+  - APIs including Twilio (mobile messaging), Emojify, Weather, Bespoke backend API for final project
   - Postgresql
   - Heroku
 
 - Challenges Overcome: 
-  - 
+  - Learned new languages and technologies in short timeframes (e.g. Javascript, Ruby on Rails, React.js)
+  - Debugged key production issues on final project - while putting our backend API into production, we had an issue where the auth tokens stopped working when we hosted the app on Heroku, eventually I solved this issue by identifying it as a change in the locaiton of the environment variables. 
+  - Managed a group project involving eight new programmers (including myself) and we delivered a well rounded, fully tested, facebook clone in two weeks using agile programming and a trello board to manage our work. 
+  - Developed a twitter clone frontend with TDD. I used asynchronous functions for the first time, which was difficult to understand initially. After reading around the subject and trying a few test functions, I succesfully implemented and tested them with Jasmine (and Jest on a later project). I also managed to successfully mock the functions in the tests.
+  - Solved issues with incompatible programs. Initially on using the Shotgun gem was not working with the latest version of Ruby, eventually I figured out that it had not been updated and would only work with an older version of Ruby.
+  - Improved my Red Green Refactor development cycle. In part through learning how to refactor earlier on in the development process, this arose out of facing complex refactoring requirements if left for too long.
 
 #### London School of Economics and Political Science 
 
