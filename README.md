@@ -4,18 +4,21 @@
 
 Hi! My name is Jack McCarthy and I am currently multiclassing as a programmer. I am a logical and organised thinker who is experienced at managing projects, a great team player and good at working under pressure. After 8 years in the energy industry as a procurement professional negotiating goods and services contracts, I am now looking to put my time and effort into creating programs which are fun and and easy to use (especially after having to use industry standard procurement programs!). 
 
-My programming journey started in 2020 with freecodecamp and codecademy courses, before deciding to take the plunge in 2021 when I left my job and signed up to the Makers Academy Bootcamp. My experience at the Academy has been a fantastic and intense experience where I have built several awesome projects with various different technologies including Ruby-on-Rails and React.js. Four of these projects have been built in groups where we used Agile working practices, and delivered fully functioning programs in short timeframes, often while learning new technologies. 
+My programming journey started in 2020 with freecodecamp and codecademy courses, before deciding to take the plunge in 2021 when I left my job and signed up to the Makers Academy Bootcamp. My experience at the Academy has been a fantastic and intense experience where I have built several awesome projects with various different technologies including Ruby-on-Rails and React.js. Four of these have been group projects where we used Agile working practices, delivering fully functioning programs in short timeframes, often while learning new technologies. 
 
 My time at Makers has left me feeling ready to learn any tech stack. I am looking forward to working in the tech industry to become a full-fledged softwware engineer and continue my learning journey. Please check out some of my work below.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        | Testing           |
-| ---------------------------- | ----------------- | ----------------- | ----------------- |
-| Reclaim application - [React Frontend](https://github.com/jackmcc08/ladz-reclaim-react-fe); [Ruby Backend API](https://github.com/willspencer16/reclaim_api) | Final Makers Project - Worked in a group of 4 to develop a Loyalty Card Application which comprised of separate frontend and backends. It was my first experience with React. | React.js, Ruby on Rails | Jest, RSPEC| 
-| [Facebook Clone](https://github.com/jackmcc08/Knitter-acebook-clone) | A 2 week group engineering project to develop a facebook clone. Worked in a group of eight using Agile practices. My first experience with Ruby on Rails. | Ruby on Rails, JS, HTML, CSS | RSPEC |
-| [Notes web app](https://github.com/jackmcc08/notes_app) | A 2-day group engineering project to develop a web based notes app. I wrote the bespoke testing scripts. | vanilla JS, HTML, CSS | Bespoke testing script | 
-| [Personal Github Pages website](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, Javascript | n/a |
+| Name                         | Links | Description       | Technology       | 
+| ---------------------------- | ------ | ----------------- | ----------------- | 
+| Final Makers Group Project - Reclaim | [React Frontend Repo](https://github.com/jackmcc08/ladz-reclaim-react-fe); [Ruby Backend Repo](https://github.com/jackmcc08/reclaim_api ); [Demo](https://youtu.be/0LR2igzIuHQ) | Worked in a group of 4 to develop a Loyalty Card Application which comprised of separate frontend and backends. It was my first experience with React. | React.js, Ruby on Rails, Jest, RSPEC, Heroku |
+| Facebook Clone Group Project - Knitter |[Repo](https://github.com/jackmcc08/Knitter-acebook-clone); [Hosted](http://knitter-acebook.herokuapp.com/); [Demo](https://youtu.be/Laqb11IdKBU ) | A 2 week group engineering project working in a group of eight using Agile practices. My first experience with Ruby on Rails. | Ruby on Rails, JS, HTML, CSS, RSPEC, Heroku | 
+| Twitter Clone Solo Project - Shouter | [Repo](https://github.com/jackmcc08/chitter-challenge ) | Weekend Challenge to build a twitter clone in Ruby. | Ruby, Sinatra, RSPEC, Capybara, Rubocop |
+| Notes Web app Group Project - Ducking Notes | [Repo](https://github.com/jackmcc08/notes_app); [Hosted](https://willspencer16.github.io/notes_app/); [Demo](https://youtu.be/LoaesmaPbS0) | A 2-day group engineering project to develop a web based notes app. I wrote the bespoke testing scripts. | Vanilla JS, HTML, CSS, Bespoke Testing Script | 
+| Gilded Rose Tech Test | [Repo](https://github.com/jackmcc08/makers-gilded-rose-tech-test) | Practice tech test developed in 1 day, with an IRB based interface. | Ruby, RSPEC |
+| AirBnB Clone Group Project - Hammocks N' Drinks | [Repo](https://github.com/jackmcc08/makershnd); [Demo](https://youtu.be/C7B8mkJ1c7Y ) | First group project at Makers, worked with a team of 4 to develop this Ruby and Sinatra Web App. It was developed over the course of a week. We had a wild concept which really helped motivate the team and we managed to build out several features. | Ruby, Sinatra, Postgresql, RSPEC, Capybara |
+| Personal Portfolio Website|[Repo](https://jackmcc08.github.io/); [Hosted](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, Javascript | 
 
 Please check out my [Github Profile](https://github.com/jackmcc08).
 
@@ -23,7 +26,7 @@ Please check out my [Github Profile](https://github.com/jackmcc08).
 
 #### Teamwork 
 
-Significant experience leading and participating in cross-functional teams. I am very action-orientated and often looking to drive work to completion in the teams I am in, as well as providing a fun environment to work in. At Makers, I have leveraged my team working skills in four separate group projects, often helping to set the initial ground work and get the ball rolling.
+Significant experience leading and participating in cross-functional teams. I am very action-orientated and look to drive work to completion, as well as providing a fun environment to work in. At Makers, I have leveraged my team working skills in four separate group projects, often helping to set the initial ground work and get the ball rolling.
 Key Achievements:
 - Worked with a team of eight at Makers to develop a facebook clone in two weeks, I helped drive the team to set an initial MVP and get it completed in the first few days.
 - Part of an internal consultancy project, working with BP staff across the globe (from Australia to Chicago). We worked completely remotely, managing multiple time zones. We completed the project on time and presented to the group head of finance.
@@ -31,7 +34,7 @@ Key Achievements:
 
 
 #### Communication and Presentation
-Experienced communicator and presenter, ranging from writing reports for and agreeing requirements with senior stakeholders, negotiating with third parties, to coaching and mentoring junior members of staff. In my time at Makers, used this skill to clearly communicate technical requirements, discuss and understand how certain sections of code worked and presenting our group projects. 
+Experienced communicator and presenter, ranging from writing reports for and agreeing requirements with senior stakeholders, negotiating with third parties, to coaching and mentoring junior members of staff. In my time at Makers, used this skill to clearly communicate technical requirements, understand how certain sections of code worked and for presenting our group projects. 
 Key Achievements:
 - Wrote rig market reports that were well received by company executives, who used the report data to make key fleet decisions.
 - Persuaded a senior stakeholder to preserve out contracting options in order to allow us flexibility in our procurement process, rather than closing down the options too soon.
@@ -47,7 +50,7 @@ Key Achievements:
 
 #### Quick Study
 
-Able to take on new technologies and learn new practices quickly. During my time at BP I was often asked to support projects at short notice, and was able to pick up key issues and develop solutions quickly. At Makers, I took on two key projects where I had to learn new technologies for each project and deliver a working product in a short time frame.
+Able to learn new technologies and practices quickly. During my time at BP I was often asked to support projects at short notice, and was able to pick up key issues and develop solutions quickly. At Makers, I took on two projects where I had to learn new technologies for each project and deliver a working product in a short time frame.
 Key Achievements: 
   - Delivered a react.js frontend application for final Makers Group project, had to learn and start using react in a week.
   - Developed a contract strategy for a multi-billion dollar LNG project in West Africa, within one month of taking on the role, for procurement categories I did not have prior experience in.
@@ -66,7 +69,7 @@ Over the past 2 years have been working in an agile working environment, working
 Key Achievements:
 - Produced an MVP of a facebook clone in the first three days of the project, we agreed key features at the beginning and then held daily standups to ensure we were on track. We used a Trello board to track our progress. 
 - Set up a kanban board for the rigs procurement team and ran daily stand-ups.
-- Worked in the Tortue Phase 2 project optimisation scrum, set up a strategic supplier engagment session from start to finish in one month compared to a usual timeframe of 3+ months. 
+- Worked in the Tortue Phase 2 project optimisation scrum, where I set up a strategic supplier engagment sessions from start to finish in one month compared to a usual timeframe of 3+ months. 
 
 #### Negotiation
 
@@ -92,10 +95,10 @@ Key Achievements:
   
 - **Category Specialist** | Eastern Hemisphere Drilling Rigs Team | Jun 2017 - Sep 2019
   - Led multiple drilling rig sourcing projects across Azerbaijan and the North Sea. Including dealing with US Iran trade sanctions and handling complex negotiations with national contractors.
-  - BP Catalyst Program: Completed in-house consultancy project on building growth based careers. Worked remotely with a global team and presented results to senior company executives. 
+  - BP Catalyst Program: Completed an in-house consultancy project on building growth based careers. Worked remotely with a global team and presented results to senior company executives. 
   
 - **Strategy Analyst** | BP Global Drilling Rig Fleet | Oct 2014 to May 2017
-  - Created market intelligence and strategy excel based tools to analyse and predict the price of drilling rigs and influence drilling rig procurement strategy.
+  - Created excel based market intelligence and strategy tools to analyse and predict the price of drilling rigs and influence drilling rig procurement strategy.
   - During time in role improved the quality and time to produce the report and incorporated data analysis of the industry fleet structure and utilisation for the first time. 
   - Completed BP's graduate program.
   
@@ -110,13 +113,21 @@ Key Achievements:
 
 #### Makers Academy (February to May 2021)
 
-- 16-week intensive coding bootcamp.
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-- Pair Programming 
-- Remote Working 
+- 16-week intensive coding bootcamp. Course covered fundamentals of coding and developed key soft skills, including group projects and agile working. 
+- Key Skills Developed:
+  - Object Orientated Programming (OOP)
+  - Behaviour and Test Driven Development (BDD, TDD)
+  - Agile Working Practices
+  - Pair Programming
+  - Remote Working
+- Key Technologies Used:
+  - Ruby: Ruby on Rails, Sinatra, RSPEC, Rubocop
+  - JavaScript: React.js, Node.js, Jasmine, Jest
+  - Postgresql
+  - Heroku
+
+- Challenges Overcome: 
+  - 
 
 #### London School of Economics and Political Science 
 
