@@ -90,7 +90,7 @@ Key Achievements:
 **Procurement Professional** | Over eight years of procurement experience at BP in a variety of roles. Roles included:
 - **Procurement Lead** | Tortue Offshore LNG Project - Mauritania and Senegal | Sep 2019 - Dec 2020
   - Developed the supply chain strategy for phase 2 of the Tortue Project a multi-billion dollar liquefied natural gas project in Mauritania and Senegal, mapping out the route to placing over 10 major supply chain contracts.
-  - Negotiated Coronvirus impact claims on the build of floating hotel in China, obtained an extension at no additional cost.
+  - Negotiated Coronvirus impact claims on the build of floating hotel in China.
   - Procurement Software Development:  Acted as an expert business user in development of a salesforce procurement planning application.
   
 - **Category Specialist** | Eastern Hemisphere Drilling Rigs Team | Jun 2017 - Sep 2019
