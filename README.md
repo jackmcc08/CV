@@ -18,7 +18,7 @@ My time at Makers has left me feeling ready to learn any tech stack and take on 
 | Notes Web app Group Project - Ducking Notes | [Repo](https://github.com/jackmcc08/notes_app); [Live Site](https://willspencer16.github.io/notes_app/); [Demo](https://youtu.be/LoaesmaPbS0) | A 2-day group engineering project to develop a web based notes app which is passive agressive. I wrote the bespoke testing scripts. | Vanilla JS, HTML, CSS, Bespoke Testing Script | 
 | Gilded Rose Tech Test | [Repo](https://github.com/jackmcc08/makers-gilded-rose-tech-test) | My attempt at a classic tech test. Developed in 1 day, with an IRB based interface. | Ruby, RSPEC |
 | AirBnB Clone Group Project - Hammocks N' Drinks | [Repo](https://github.com/jackmcc08/makershnd); [Demo](https://youtu.be/C7B8mkJ1c7Y ) | First group project at Makers, worked with a team of 4 to develop this Ruby and Sinatra Web App. It was developed over the course of a week. We had a great concept which really helped motivate the team and we managed to build out several features. | Ruby, Sinatra, Postgresql, RSPEC, Capybara |
-| Personal Portfolio Website|[Repo](https://jackmcc08.github.io/); [Live Site](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, Javascript | 
+| Personal Portfolio Website|[Repo](https://github.com/jackmcc08/jackmcc08.github.io); [Live Site](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, Javascript | 
 
 Please check out my [Github Profile](https://github.com/jackmcc08).
 
