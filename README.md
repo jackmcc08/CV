@@ -25,7 +25,8 @@ Please check out my [Github Profile](https://github.com/jackmcc08).
 
 ## Tech Experience
 
-#### Makers Academy (February to May 2021)
+#### Makers Academy 
+**February to May 2021**
 
 - 16-week intensive coding bootcamp. Course covered fundamentals of coding and key soft skills, including group projects and agile working. Delivered 4 group projects, 8 weekend challenges and 2 tech tests. 
 - Key Achievements and Challenges Overcome: 
