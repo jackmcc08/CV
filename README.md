@@ -21,6 +21,7 @@ My time at Makers has left me feeling ready to learn any tech stack and take on 
 | AirBnB Clone Group Project - Hammocks N' Drinks | [Repo](https://github.com/jackmcc08/makershnd); [Demo](https://youtu.be/C7B8mkJ1c7Y ) | First group project at Makers, worked with a team of 4 to develop this Ruby and Sinatra Web App. It was developed over the course of a week. We had a great concept which really helped motivate the team and we managed to build out several features. | Ruby, Sinatra, PostgreSQL, RSPEC, Capybara |
 | Personal Portfolio Website|[Repo](https://jackmcc08.github.io/); [Live Site](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, JavaScript, Github Pages | 
 
+
 Please check out my [Github Profile](https://github.com/jackmcc08).
 
 ## Tech Experience
@@ -114,7 +115,6 @@ Key Achievements:
 - Worked in the Tortue Phase 2 project optimisation scrum, where I set up a strategic supplier engagement sessions from start to finish in one month compared to a usual timeframe of 3+ months. 
 
 #### Other Key Skills - Negotiation, Contract Reviewing and Drafting, Strategic Sourcing, Coaching & Mentoring, Remote Working, Working with Global Teams.
-
 
 ## Education
 
