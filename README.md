@@ -12,13 +12,14 @@ My time at Makers has left me feeling ready to learn any tech stack and take on 
 
 | Name                         | Links | Description       | Technology       | 
 | ---------------------------- | ------ | ----------------- | ----------------- | 
-| Final Makers Group Project - Reclaim | [Frontend Repo](https://github.com/jackmcc08/ladz-reclaim-react-fe); [Backend Repo](https://github.com/jackmcc08/reclaim_api ); [Live Site](https://github.com/jackmcc08/reclaim_api); [Demo](https://youtu.be/0LR2igzIuHQ) | Worked in a group of 4 to develop a Loyalty Stamp Card Application which comprised of a separate React frontend and Rails backend API. My first experience with React. | React.js, Ruby on Rails, Jest, RSPEC, Heroku |
-| Facebook Clone Group Project - Knitter |[Repo](https://github.com/jackmcc08/Knitter-acebook-clone); [Live Site](http://knitter-acebook.herokuapp.com/); [Demo](https://youtu.be/Laqb11IdKBU ) | A 2 week group engineering project working in a group of eight using Agile practices, a great project which demonstrated the power of large teams working well together. My first experience with Ruby on Rails. | Ruby on Rails, JS, HTML, CSS, RSPEC, Heroku | 
+| Final Makers Group Project - Reclaim | [Frontend Repo](https://github.com/jackmcc08/ladz-reclaim-react-fe); [Backend Repo](https://github.com/jackmcc08/reclaim_api ); [Live Site](https://github.com/jackmcc08/reclaim_api); [Demo](https://youtu.be/0LR2igzIuHQ) | Worked in a group of 4 to develop a Loyalty Stamp Card Application which comprised of a separate React frontend and Rails backend API. My first experience with React. | React.js, Node.js, Ruby on Rails, Jest, RSPEC, Heroku |
+| Facebook Clone Group Project - Knitter |[Repo](https://github.com/jackmcc08/Knitter-acebook-clone); [Live Site](http://knitter-acebook.herokuapp.com/); [Demo](https://youtu.be/Laqb11IdKBU ) | A 2 week group engineering project working in a group of eight using Agile practices, a great project which demonstrated the power of large teams working well together. My first experience with Ruby on Rails. | Ruby on Rails, Postgresql, JS, HTML, CSS, RSPEC, Heroku | 
 | Twitter Clone Solo Project - Shouter | [Repo](https://github.com/jackmcc08/chitter-challenge ); [Demo](https://youtu.be/lPeBtkiOBZU)| Weekend Challenge to build a twitter clone in Ruby. I put my own spin on the app, allowing you to shout your thoughts into the void! | Ruby, Sinatra, RSPEC, Capybara, Rubocop |
 | Notes Web app Group Project - Ducking Notes | [Repo](https://github.com/jackmcc08/notes_app); [Live Site](https://willspencer16.github.io/notes_app/); [Demo](https://youtu.be/LoaesmaPbS0) | A 2-day group engineering project to develop a web based notes app. I wrote the bespoke testing scripts. | Vanilla JS, HTML, CSS, Bespoke Testing Script | 
 | Gilded Rose Tech Test | [Repo](https://github.com/jackmcc08/makers-gilded-rose-tech-test) | My attempt at a classic tech test. Developed in 1 day, with an IRB based interface. | Ruby, RSPEC |
+| Bank Tech Test | [Repo](https://github.com/jackmcc08/makers-bank-test) | Practice bank tech test, developed over 1 day with an IRB based interface. Sought to apply OOP and SOLID principles during development. | Ruby, RSPEC |
 | AirBnB Clone Group Project - Hammocks N' Drinks | [Repo](https://github.com/jackmcc08/makershnd); [Demo](https://youtu.be/C7B8mkJ1c7Y ) | First group project at Makers, worked with a team of 4 to develop this Ruby and Sinatra Web App. It was developed over the course of a week. We had a great concept which really helped motivate the team and we managed to build out several features. | Ruby, Sinatra, PostgreSQL, RSPEC, Capybara |
-| Personal Portfolio Website|[Repo](https://jackmcc08.github.io/); [Live Site](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, JavaScript | 
+| Personal Portfolio Website|[Repo](https://jackmcc08.github.io/); [Live Site](https://jackmcc08.github.io/)| Personal Website and Javascript Playground - check out the dark mode switch | HTML, CSS, JavaScript, Github Pages | 
 
 Please check out my [Github Profile](https://github.com/jackmcc08).
 
@@ -27,28 +28,16 @@ Please check out my [Github Profile](https://github.com/jackmcc08).
 #### Makers Academy (February to May 2021)
 
 - 16-week intensive coding bootcamp. Course covered fundamentals of coding and key soft skills, including group projects and agile working. Delivered 4 group projects, 8 weekend challenges and 2 tech tests. 
-- Key Skills Developed:
-  - Object Orientated Programming (OOP)
-  - Behaviour and Test Driven Development (BDD, TDD), including mocking classes.
-  - Good Debugging Process
-  - Agile Working Practices
-  - Pair Programming
-  - Remote Working
-- Key Technologies Used:
-  - Ruby: Ruby on Rails, Sinatra, RSPEC, Rubocop
-  - JavaScript: React.js, Node.js, Jasmine, Jest
-  - APIs including Twilio (mobile messaging), Emojify, Weather, Bespoke backend API for final project
-  - Databases: Postgresql
-  - Hosting: Heroku, Github Pages
-
 - Key Achievements and Challenges Overcome: 
   - **Quick Study:** Learned new languages and technologies in short timeframes (e.g. Javascript, Ruby on Rails, React.js)
-  - **From Start to Finish:** Using a tech stack that I was unfamiliar with (React) going into the final project, I delivered a well rounded functioning front end application. I worked on all parts of the project from initial designs and domain modelling to putting the app into production, solving numerous bugs, learning a new technology and doing it all in two weeks.
-  - **Solving Bugs:** Debugged key production issues on final project - while putting our backend API into production, we had an issue where the auth tokens stopped working when we hosted the app on Heroku, eventually I solved this issue by identifying it as a change in the location of the secret key. 
-  - **Teamwork & Agile Working:** Part of a group project involving eight new programmers (including myself), we delivered a well rounded, fully tested, facebook clone in two weeks using agile working practices and a trello board to manage our work.  
-  - **BDD and Asynchronous functions:** Developed a twitter clone frontend via BDD. I used asynchronous functions for the first time, which was difficult to understand initially. After reading around the subject and trying a few test solutions, I successfully implemented and tested them with Jasmine (and Jest on a later project) and fully mocked them in the tests.
+  - **From Start to Finish:** Used a tech stack that I was unfamiliar with (React) going into the final project, I delivered a well rounded functioning front end application. I worked on all parts of the project from initial designs and domain modelling to putting the app into production, solving numerous bugs, learning a new technology and doing it all in two weeks.
+  - **Debugging:** Debugged key production issues on final project - while putting our backend API into production, we had an issue where the auth tokens stopped working when we hosted the app on Heroku, eventually I solved this issue, through using the debugging loop, by identifying it as a change in the location of the secret key. 
+  - **Teamwork & Agile Working:** Part of a group project involving eight new programmers (including myself), we delivered a well rounded, fully tested, facebook clone in two weeks using agile working practices and a trello board to manage our work.
+  - **Object Orientated Programming (OOP) and SOLID Principles:** Over the 12 week course became familiar with OOP and SOLID. In my practice bank tech test I demonstrated application of this through splitting out the program into multiple classes and modules to ensure a single responsibility for each class. As well as applying encapsulation through limiting access to the inner workings through private variables and methods. 
+  - **BDD and Asynchronous functions:** Developed a twitter clone frontend via BDD with detailed feature and unit tests. I used asynchronous functions for the first time, which was difficult to understand initially. After reading around the subject and trying a few test solutions, I successfully implemented and tested them with Jasmine (and Jest on a later project) and fully mocked them in the tests.
   - **Improved TDD cycle:** Improved my Red Green Refactor development cycle. In part through learning how to refactor earlier on in the development process, this arose out of facing complex refactoring requirements if I waited until too late in the development.
-  - **Outdated Technologies:** Solved issues with incompatible programs. Initially on using the Shotgun gem was not working with the latest version of Ruby, eventually I figured out that it had not been updated and would only work with an older version of Ruby.
+  - **Solving issues with outdated Technologies:** Solved issues with incompatible programs. Initially on using the Shotgun gem was not working with the latest version of Ruby, eventually I figured out that it had not been updated and would only work with an older version of Ruby.
+  - **Remote Working:** Completed entire course and worked succesfully on multiple group projects while working remotely. 
 
 
 ## Professional Experience
@@ -80,16 +69,15 @@ Please check out my [Github Profile](https://github.com/jackmcc08).
 
 
 
-## Skills
+## Skills (give a little bit more detail in Makers in using a specific skill and describe a scenario - used this skill x and it allowed you to do y) - may want to mention coaching and mentoring
+Make sure there are key links between your makers experience and your prior experience.
 
 #### Teamwork 
-
 Significant experience leading and participating in cross-functional teams. I am very action-orientated and look to drive work to completion, as well as providing a fun environment to work in. At Makers, I have leveraged my team working skills in four separate group projects, often helping to set the initial ground work and get the ball rolling.
 Key Achievements:
 - Worked with a team of eight at Makers to develop a facebook clone in two weeks, I helped drive the team to set an initial MVP and get it completed in the first few days.
 - Part of an internal consultancy project, working with BP staff across the globe (from Australia to Chicago). We worked completely remotely, managing multiple time zones. We completed the project on time, delivering a bespoke analysis on skills based career development and presented to the group head of finance.
 - Led a negotiation team that worked over a short time frame (one week) to agree key negotiation priorities, got senior level agreement and then successfully negotiated with a national contractor and provided the leverage to maintain our key licences.
-
 
 #### Communication and Presentation
 Experienced communicator and presenter, ranging from writing reports for and agreeing requirements with senior stakeholders, negotiating with third parties, to coaching and mentoring junior members of staff. In my time at Makers, used this skill to clearly communicate technical requirements, understand how certain sections of code worked and for presenting our group projects. 
@@ -97,8 +85,7 @@ Key Achievements:
 - Wrote rig market reports that were well received by company executives, who used the report data to make key fleet decisions.
 - Persuaded a senior stakeholder to preserve out contracting options in order to allow us flexibility in our procurement process, rather than closing down the options too soon.
   
-
-#### Project Management and Leadership
+#### Project Management and Leadership 
 
 Multiple years of leading and managing end to end procurement projects. Projects typically involved developing contracts to meet business requirements, ensuring stakeholders requirements were met and managing their expectations along with constant communication. Consistently worked to deadlines and secured contracts to meet budgets. Also involved heavy interaction and negotiation with external parties. 
 Key Achievements:
@@ -106,14 +93,14 @@ Key Achievements:
 - Led team which developed the procurement strategy for a multi-billion dollar LNG project in West Africa, which was approved first time. 
 - Managed project to secure new rig types for Azerbaijan.
 
-#### Quick Study
+#### Quick Study 
 
 Able to learn new technologies and practices quickly. During my time at BP I was often asked to support projects at short notice, and was able to pick up key issues and develop solutions quickly. At Makers, I took on two projects where I had to learn new technologies for each project and deliver a working product in a short time frame.
 Key Achievements: 
   - Delivered a react.js frontend application for final Makers Group project, had to learn and start using react in a week.
   - Developed a contract strategy for a multi-billion dollar LNG project in West Africa, within one month of taking on the role, for procurement categories I did not have prior experience in.
 
-#### Analysis and Problem Solving
+#### Analysis and Problem Solving 
 
 Able to quickly review and analyse material including contracts, market data, and reports to understand what is going on and produce plans and suggestions on the way to progress. In my time at Makers I have used this skill to develop a good debugging methodology, utilising the debugging loop (get visibility, tighten the loop, fix the one issue, repeat), which has helped me solve key problems in our group projects. 
 Key Achievements:
@@ -136,9 +123,7 @@ Key Achievements:
 
 #### Makers Academy 
 
-- 16-week intensive coding bootcamp. 
-- Course covered fundamentals of coding and developed key soft skills, including group projects and agile working. 
-- Delivered 4 group projects, 8 weekend challenges and 2 practice tech tests. 
+- 16-week intensive coding bootcamp - see Tech Experience above for more details.
 
 #### London School of Economics and Political Science 
 
@@ -161,4 +146,3 @@ Key Achievements:
 - Volunteering:
   - Career Ready Mentor - supported sixth form pupils with getting an insight into work life, helped with CVs, and research into future careers.
   - Team London Ambassador - volunteered over a summer at tourist sites to help provide a warm welcome and help (directions, advice, recommendations) to tourists. 
-- Completing my flat renovation (Why are there so many shades of white?....why?)
