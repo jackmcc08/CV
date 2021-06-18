@@ -25,8 +25,7 @@ Please check out my [Github Profile](https://github.com/jackmcc08).
 
 ## Tech Experience
 
-#### Makers Academy 
-**February to May 2021**
+#### Makers Academy | February to May 2021
 
 - 16-week intensive coding bootcamp. Course covered fundamentals of coding and key soft skills, including group projects and agile working. Delivered 4 group projects, 8 weekend challenges and 2 tech tests. 
 - Key Achievements and Challenges Overcome: 
@@ -43,9 +42,7 @@ Please check out my [Github Profile](https://github.com/jackmcc08).
 
 ## Professional Experience
 
-#### BP Plc. | International Energy Company
-
-**2012 - 2020**
+#### BP Plc. | International Energy Company | 2012 - 2020
 
 **Procurement Professional** | Over eight years of procurement experience at BP in a variety of roles.
 - **Procurement Lead** | Tortue Offshore LNG Project - Mauritania and Senegal | Sep 2019 - Dec 2020
@@ -70,8 +67,7 @@ Please check out my [Github Profile](https://github.com/jackmcc08).
 
 
 
-## Skills (give a little bit more detail in Makers in using a specific skill and describe a scenario - used this skill x and it allowed you to do y) - may want to mention coaching and mentoring
-Make sure there are key links between your makers experience and your prior experience.
+## Skills
 
 #### Teamwork 
 Significant experience leading and participating in cross-functional teams. I am very action-orientated and look to drive work to completion, as well as providing a fun environment to work in. At Makers, I have leveraged my team working skills in four separate group projects, often helping to set the initial ground work and get the ball rolling.
